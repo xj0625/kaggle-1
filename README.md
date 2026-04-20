@@ -50,11 +50,6 @@ kaggle-1/
 
 - **最佳 Public Score**：0.96592
 - **最佳 Private Score**：0.96592
-- **其他提交成绩**：
-  - submission_final.csv: 0.89816
-  - improved_submission.csv: 0.89556
-  - word2vec_logreg_new_submission.csv: 0.87552
-  - combined_submission.csv: 0.88008
 - **排名**（如能看到可填写）：无
 
 ---
@@ -62,10 +57,10 @@ kaggle-1/
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/112305010107_谢洁_kaggle_scores.html)
+![Kaggle截图](./images112305010107_谢洁_kaggle_scores.html)
 
-> 截图保存在 `images` 文件夹中。
-> 截图文件名：`112305010107_谢洁_kaggle_scores.html`
+> 截图保存在根目录中。
+> 截图文件名：`images112305010107_谢洁_kaggle_scores.html`
 
 ---
 
@@ -158,7 +153,10 @@ word2vec-sentiment-analysis/
 | Word n-gram + NBSVM | 0.9667 | 0.96592 |
 | Word n-gram + LR | 0.9653 | - |
 | Char n-gram + LR | 0.9595 | - |
-| Word2Vec + LR | 0.9463 | - |
+| Word2Vec + LR | 0.9463 | 0.87552 |
+| 组合特征模型 | - | 0.88008 |
+| 增强版模型 | - | 0.89556 |
+| 最终融合模型 | - | 0.89816 |
 
 ---
 
