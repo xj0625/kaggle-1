@@ -1,0 +1,11 @@
+# 忽略文件
+.env
+__pycache__/
+*.pyc
+venv/
+artifacts/
+*.npy
+*.pkl
+*.zip
+*.tsv
+*.csv
