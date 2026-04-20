@@ -5,6 +5,18 @@
 - **学号**：112305010107
 - **班级**：数据1231
 
+## 2. 仓库结构
+```
+kaggle-1/
+├── code/                  # 实验代码
+├── report/                # 实验报告
+├── results/               # 实验结果（提交文件）
+├── images/                # 截图
+├── README.md              # 仓库说明
+├── requirements.txt       # 依赖
+└── .gitignore             # 忽略文件
+```
+
 > 注意：姓名和学号必须填写，否则本次实验提交无效。
 
 ---
@@ -45,10 +57,10 @@
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/kaggle_score.png)
+![Kaggle截图](./images/112305010107_谢洁_kaggle_score.html)
 
-> 建议将截图保存在 `images` 文件夹中。
-> 截图文件名示例：`112305010107_谢洁_kaggle_score.png`
+> 截图保存在 `images` 文件夹中。
+> 截图文件名：`112305010107_谢洁_kaggle_score.html`
 
 ---
 
