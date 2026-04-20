@@ -38,8 +38,8 @@ kaggle-1/
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
 - **提交日期**：2026-04-20
 
-- **GitHub 仓库地址**：https://github.com/xj0625/kaggle-1
-- **GitHub README 地址**：https://github.com/xj0625/kaggle-1/blob/main/README.md
+- **GitHub 仓库地址**：https://github.com/xj0625/112305010107xiejie
+- **GitHub README 地址**：https://github.com/xj0625/112305010107xiejie/blob/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
