@@ -32,12 +32,12 @@
 - 使用 rank_mean 融合多个模型预测结果
 
 ## 模型性能
-| 模型 | 验证集 AUC |
-|------|------------|
-| Word n-gram + NBSVM | 0.9667 |
-| Word n-gram + LR | 0.9653 |
-| Char n-gram + LR | 0.9595 |
-| Word2Vec + LR | 0.9463 |
+| 模型 | 验证集 AUC | 真实测试集 AUC |
+|------|------------|----------------|
+| Word n-gram + NBSVM | 0.9667 | 0.96592 |
+| Word n-gram + LR | 0.9653 | - |
+| Char n-gram + LR | 0.9595 | - |
+| Word2Vec + LR | 0.9463 | - |
 
 ## 项目结构
 ```
