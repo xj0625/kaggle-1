@@ -48,8 +48,13 @@ kaggle-1/
 ## 4. Kaggle 成绩
 请填写你最终提交到 Kaggle 的结果：
 
-- **Public Score**：0.96592
-- **Private Score**（如有）：0.96592
+- **最佳 Public Score**：0.96592
+- **最佳 Private Score**：0.96592
+- **其他提交成绩**：
+  - submission_final.csv: 0.89816
+  - improved_submission.csv: 0.89556
+  - word2vec_logreg_new_submission.csv: 0.87552
+  - combined_submission.csv: 0.88008
 - **排名**（如能看到可填写）：无
 
 ---
@@ -57,10 +62,10 @@ kaggle-1/
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/112305010107_谢洁_kaggle_score.html)
+![Kaggle截图](./images/112305010107_谢洁_kaggle_scores.html)
 
 > 截图保存在 `images` 文件夹中。
-> 截图文件名：`112305010107_谢洁_kaggle_score.html`
+> 截图文件名：`112305010107_谢洁_kaggle_scores.html`
 
 ---
 
