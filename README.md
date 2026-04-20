@@ -57,10 +57,16 @@ kaggle-1/
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./kaggle_score.html)
+### Kaggle 提交结果
+| 提交文件 | 私人评分 | 公开评分 |
+|---------|---------|--------|
+| submission_best_single.csv | 0.96592 | 0.96592 |
+| submission_final.csv | 0.89816 | 0.89816 |
+| improved_submission.csv | 0.89556 | 0.89556 |
+| word2vec_logreg_new_submission.csv | 0.87552 | 0.87552 |
+| combined_submission.csv | 0.88008 | 0.88008 |
 
-> 截图保存在根目录中。
-> 截图文件名：`kaggle_score.html`
+> 详细评分信息请查看：[kaggle_score.html](./kaggle_score.html)
 
 ---
 
