@@ -57,10 +57,10 @@ kaggle-1/
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./kaggle_score.png)
+![Kaggle截图](./kaggle_score.html)
 
 > 截图保存在根目录中。
-> 截图文件名：`kaggle_score.png`
+> 截图文件名：`kaggle_score.html`
 
 ---
 
